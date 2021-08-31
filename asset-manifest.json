@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TextCure/static/css/main.06db37ff.chunk.css",
+    "main.js": "/TextCure/static/js/main.cc59ac9c.chunk.js",
+    "main.js.map": "/TextCure/static/js/main.cc59ac9c.chunk.js.map",
+    "runtime-main.js": "/TextCure/static/js/runtime-main.0881aa6a.js",
+    "runtime-main.js.map": "/TextCure/static/js/runtime-main.0881aa6a.js.map",
+    "static/js/2.3dbd9900.chunk.js": "/TextCure/static/js/2.3dbd9900.chunk.js",
+    "static/js/2.3dbd9900.chunk.js.map": "/TextCure/static/js/2.3dbd9900.chunk.js.map",
+    "static/js/3.bf1ffd1d.chunk.js": "/TextCure/static/js/3.bf1ffd1d.chunk.js",
+    "static/js/3.bf1ffd1d.chunk.js.map": "/TextCure/static/js/3.bf1ffd1d.chunk.js.map",
+    "index.html": "/TextCure/index.html",
+    "static/css/main.06db37ff.chunk.css.map": "/TextCure/static/css/main.06db37ff.chunk.css.map",
+    "static/js/2.3dbd9900.chunk.js.LICENSE.txt": "/TextCure/static/js/2.3dbd9900.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0881aa6a.js",
+    "static/js/2.3dbd9900.chunk.js",
+    "static/css/main.06db37ff.chunk.css",
+    "static/js/main.cc59ac9c.chunk.js"
+  ]
+}
